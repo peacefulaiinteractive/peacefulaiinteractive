@@ -1,1 +1,1 @@
-Welcome to PeaceAI a public, non-commercial initiative using AI to resolve conflict quickly, fairly, and peacefully. **What is PeaceAI?** A global, AI-powered mediator designed to de-escalate conflict at every level from personal disputes to international tensions.
+Welcome to PeaceAI - a public, non-commercial initiative using AI to resolve conflict quickly, fairly, and peacefully. **What is PeaceAI?** A global, AI-powered mediator designed to de-escalate conflict at every level from personal disputes to international tensions.
